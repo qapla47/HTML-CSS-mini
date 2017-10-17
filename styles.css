@@ -1,37 +1,25 @@
+@import '/.header.css';
+@import './section.css';
+@import './box.css';
+
+
 body {
   font-family: Arial;
-}
-h1 {
-  font-family: Arial;
-  width: 97%; 
-  border-width: 1px;
-  border-style: solid;
-  border-color: #66554;
-  padding: 3%;
   box-sizing: border-box;
-  text-aligh: center;
+  margin: 1%;
 }
-p {
-  width: 40%; 
-  border-width: 1px;
-  border-style: solid;
-  border-color: #66554;
-  padding: 3%;
-  margin: 3%;
-  display: inline-block;
-  float: left;
-  box-sizing: border-box;
-  font-size: 12;
-  // background-color: rgb(185,179,175);
-}
-h2 {
+
+
+
+
+/* h2 {
   font-family: Arial;
   border-width: 1px;
   border-style: solid;
   border-color: #66554;
   padding: 3%;
   text-align: left
-}
+} */
 /* b {
   font-size: 16;
 } */
